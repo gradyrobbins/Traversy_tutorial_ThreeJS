@@ -1,0 +1,23 @@
+{
+  "name": "traversy_tutorial_threejs",
+  "version": "1.0.0",
+  "description": "Following [this ](https://www.youtube.com/watch?v=8jP4xpga6yY) tutorial",
+  "main": "main.js",
+  "dependencies": {
+    "three": "^0.133.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gradyrobbins/Traversy_tutorial_ThreeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gradyrobbins/Traversy_tutorial_ThreeJS/issues"
+  },
+  "homepage": "https://github.com/gradyrobbins/Traversy_tutorial_ThreeJS#readme"
+}
