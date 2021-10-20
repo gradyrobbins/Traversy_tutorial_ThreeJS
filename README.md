@@ -1,10 +1,12 @@
-# Traversy_tutorial_ThreeJS
+# ThreeJS Starter Project 
+## Following [Traversy Media's tutorial](https://www.youtube.com/watch?v=8jP4xpga6yY) 
 
-Following [this ](https://www.youtube.com/watch?v=8jP4xpga6yY) tutorial
-
-more info: [Threejs.org](https://threejs.org)
-
-[ goal : build this](https://codepen.io/bradtraversy/pen/VOpZvp0) spinning cube
+### Goal: Use ThreeJS to build this spinning cube:
 
 
+![Demo](NewGIF.gif)
+
+
+#### More info: 
+[Threejs.org](https://threejs.org)
 
