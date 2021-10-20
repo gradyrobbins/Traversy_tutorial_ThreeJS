@@ -28,13 +28,13 @@ function init() {
     const geometry = new THREE.BoxGeometry(3, 3, 3);
 
     // Create material with color
-    const material = new THREE.MeshBasicMaterial({ color: 0x0000ff });
+    //const material = new THREE.MeshBasicMaterial({ color: 0x0000ff });
 
     // Add texture -
-    // const texture = new THREE.TextureLoader().load('textures/crate.gif');
+    const texture = new THREE.TextureLoader().load('textures/crate.gif');
 
     // Create material with texture
-    // const material = new THREE.MeshBasicMaterial({ map: texture });
+    const material = new THREE.MeshBasicMaterial({ map: texture });
 
     // Create mesh with geo and material
     cube = new THREE.Mesh(geometry, material);
